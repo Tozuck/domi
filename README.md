@@ -2,5 +2,5 @@
 
 
 ```
-git clone https://github.com/Tozuck/domi.git && bash domi/domi.sh
+curl -sSL https://raw.githubusercontent.com/Tozuck/domi/main/domi.sh | bash
 ```
